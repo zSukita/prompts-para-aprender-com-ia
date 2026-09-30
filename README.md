@@ -94,5 +94,5 @@ Adicione nesta seção apenas materiais realmente gerados e incluídos no reposi
 - [ ] Material de estudo exportado
 - [ ] Capturas de tela adicionadas
 - [ ] Link público do notebook incluído e testado
-- [ ] Repositório publicado como público
+- [x] Repositório publicado como público: [zSukita/prompts-para-aprender-com-ia](https://github.com/zSukita/prompts-para-aprender-com-ia)
 
